@@ -1,6 +1,6 @@
 # Cortex 🧠
 
-**Cortex** is a local, AI-powered Desktop File Migration Assistant built with Electron, React, TypeScript, and Vite. It is designed to act as a hyper-intelligent, chaotic but highly effective system that sifts through your scattered local files, analyzes their contents using Gemini AI, and meticulously organizes them into structured, unified folders. 
+**Cortex** is a local,  Desktop File Migration Assistant built with Electron, React, TypeScript, and Vite. It is designed to act as a hyper-intelligent, chaotic but highly effective system that sifts through your scattered local files, analyzes their contents using Gemini AI, and meticulously organizes them into structured, unified folders. 
 
 Think of it as your digital brain surgeon: it cuts through the mess of duplicated, poorly named, and scattered documents to create a cohesive library. 
 
