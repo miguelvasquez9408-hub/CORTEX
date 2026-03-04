@@ -8,16 +8,15 @@ Think of it as your digital brain surgeon: it cuts through the mess of duplicate
 
 - **Chaos Visualization:** A stunning, particle-driven UI that visually represents the chaotic state of your unorganized files and smoothly transitions to order as Cortex does its magic.
 - **Deep Content Scanning:** Built-in Electron file system scanners rapidly index specified target directories.
-- **AI-Powered Organization:** Integrates with Gemini AI models to analyze file metadata and contents, intelligently grouping files by topic, context, and relevance regardless of their original location or name.
+- **Intelligent Organization:** Built-in logic to analyze file extensions and types, automatically grouping them into cohesive categories like Documents, Images, Videos, and Code.
 - **Immersive Soundscapes:** Custom ambient sounds to make the sorting process an experience rather than a chore.
-- **Secure & Local:** Built as a desktop app, giving it native access to safely move files without them leaving your machine (only sending necessary metadata to the AI for categorization).
+- **100% Secure & Local:** Built as a desktop app, giving it native access to safely move files without them leaving your machine. No cloud API keys or internet connection required!
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16+)
-- A valid Google Gemini API Key
 
 ### Installation
 
@@ -32,13 +31,7 @@ Think of it as your digital brain surgeon: it cuts through the mess of duplicate
    npm install
    ```
 
-3. **Configure the environment:**
-   Create a `.env` file in the root directory and add your Gemini API key:
-   ```env
-   VITE_GEMINI_API_KEY=your_api_key_here
-   ```
-
-4. **Start the development server:**
+3. **Start the development server:**
    ```bash
    npm run dev
    ```
@@ -51,7 +44,6 @@ Think of it as your digital brain surgeon: it cuts through the mess of duplicate
 - **[TypeScript](https://www.typescriptlang.org/)** - Static typing
 - **[Vite](https://vitejs.dev/)** - Next Generation Frontend Tooling
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first styling
-- **Gemini SDK** - For the underlying AI processing
 
 ## 🤝 Contributing
 
